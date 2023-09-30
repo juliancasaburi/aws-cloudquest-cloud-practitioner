@@ -5,7 +5,11 @@ https://aws.amazon.com/training/digital/aws-cloud-quest/
 
 Role: `Cloud Practitioner`
 
-Badge: https://www.credly.com/badges/0e2ff4e0-9c28-4480-b328-ce1732880572/public_url
+Badge
+
+https://www.credly.com/badges/0e2ff4e0-9c28-4480-b328-ce1732880572/public_url
+
+<a href="https://www.credly.com/badges/0e2ff4e0-9c28-4480-b328-ce1732880572/public_url"><img src="badge.png" alt="Badge Image"></a>
 
 ## Solution Lab assignments in the game
 ### Cloud Computing Essentials
